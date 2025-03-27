@@ -1,0 +1,29 @@
+.box{background-image: url('https://lomando.com/pimg/akeru.gif');}
+.bb{color: rgb(255, 0, 0);
+text-align:center}
+.gg{color:rgb(255, 255, 255);
+font-family:'Courier New', Courier, monospace}
+.ww{color:rgb(255, 255, 255);
+text-align:center}
+.nn{color:rgb(255, 0, 225)}
+
+.yet{background-color: rgb(255, 173, 241);}
+.round3 {
+    border: 2px solid rgb(255, 0, 208);
+    border-radius: 12px;
+    padding: 5px;
+  }
+  .ss{color:rgb(255, 255, 255);
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
+
+.zz{color: rgb(255, 0, 0);}
+
+.bac{background-color: black}
+.jj{color:yellow}
+
+.baix{   border-style: solid;
+  border-width: 135px 111px;
+
+  border-image:url(https://lomando.com/pimg/prohandbottom.gif);
+}
+
