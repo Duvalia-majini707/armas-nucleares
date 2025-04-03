@@ -1,0 +1,33 @@
+.box{background-image: url('https://lomando.com/pimg/akeru.gif');}
+.bb{color: rgb(255, 0, 0);
+text-align:center}
+.gg{color:rgb(255, 255, 255);
+font-family:'Courier New', Courier, monospace}
+.ww{color:rgb(255, 255, 255);
+text-align:center}
+.nn{color:rgb(255, 0, 225)}
+
+.yet{background-color: rgb(255, 173, 241);}
+.round3 {
+    border: 2px solid rgb(255, 0, 208);
+    border-radius: 12px;
+    padding: 5px;
+  }
+  .ss{color:rgb(255, 255, 255);
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
+
+.zz{color: rgb(255, 0, 0);}
+
+.bac{background-color: black}
+.jj{color:yellow;font-size: large;}
+
+.ji{color:rgb(255, 153, 0)}
+
+.j2{color:brown;font-style: initial;}
+
+.round2 {
+  border: 2px solid rgb(202, 1, 65);
+  border-radius: 12px;
+  padding: 5px; }
+
+  .bosta{background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZX0W4R1by9XCoXPR2N-FmSHblHksBrhS8npZGf-NJaPZAEYhD2eskPa9ixIHQwvIsAU&usqp=CAU');}
